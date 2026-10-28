@@ -6,38 +6,47 @@
   </a>
 </p>
 
-## 👨‍💻 About me
+##  About me
 
 - 🎓 Studying Computer Science at the Federal University of Ceará (UFC), Quixadá Campus
 - 🧑‍🏫 Former Teaching Assistant for Integrated Programming at UFC
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,py&theme=dark" alt="Tech Stack" />
 </p>
 
-## 📌 Featured Repositories
+## Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/jdavidbrandao/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_1&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF&border_color=FFFFFF" alt="REPO_1" />
-  </a>
-  <a href="https://github.com/jdavidbrandao/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_2&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF&border_color=FFFFFF" alt="REPO_2" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/jdavidbrandao/REPO_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_1&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_1" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jdavidbrandao/REPO_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_2&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jdavidbrandao/REPO_3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_3&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_3" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jdavidbrandao/REPO_4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_4&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_4" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/jdavidbrandao/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_3&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF&border_color=FFFFFF" alt="REPO_3" />
-  </a>
-  <a href="https://github.com/jdavidbrandao/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_4&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF&border_color=FFFFFF" alt="REPO_4" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavidbrandao&layout=compact&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF&border_color=FFFFFF" alt="Most Used Languages" />
