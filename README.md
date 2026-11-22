@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/jdavidbrandao/REPO_1">
+      <a href="https://github.com/jdavidbrandao/FinTrack.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_1&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_1" />
       </a>
     </td>
