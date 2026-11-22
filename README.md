@@ -34,8 +34,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/jdavidbrandao/REPO_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_3&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_3" />
+      <a href="https://github.com/jdavidbrandao/https://github.com/jdavidbrandao/WordFrequency">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=WordFrequency&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="WordFrequency" />
       </a>
     </td>
     <td>
