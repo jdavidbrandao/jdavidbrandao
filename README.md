@@ -27,8 +27,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/jdavidbrandao/REPO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=REPO_2&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="REPO_2" />
+      <a href="https://github.com/jdavidbrandao/Classic_Antivirus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdavidbrandao&repo=Classic_Antivirus&bg_color=0A0E1A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=FFFFFF" alt="Classic_Antivirus" />
       </a>
     </td>
   </tr>
